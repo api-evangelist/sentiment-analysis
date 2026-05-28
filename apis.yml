@@ -1,0 +1,32 @@
+aid: sentiment-analysis
+name: Sentiment Analysis
+description: "Multilingual sentiment analysis of texts from different sources"
+url: https://www.meaningcloud.com/developer/sentiment-analysis
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Text Analysis"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Text Analysis
+  - Public APIs
+apis:
+  - name: Sentiment Analysis
+    description: "Multilingual sentiment analysis of texts from different sources"
+    humanURL: https://www.meaningcloud.com/developer/sentiment-analysis
+    baseURL: https://www.meaningcloud.com/developer/sentiment-analysis
+    tags:
+      - Text Analysis
+    properties:
+      - type: Documentation
+        url: https://www.meaningcloud.com/developer/sentiment-analysis
+common:
+  - type: Website
+    url: https://www.meaningcloud.com/developer/sentiment-analysis
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
