@@ -1,4 +1,16 @@
 aid: sentiment-analysis
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/sentiment-analysis.png
 name: Sentiment Analysis
 description: "Multilingual sentiment analysis of texts from different sources"
 url: https://www.meaningcloud.com/developer/sentiment-analysis
